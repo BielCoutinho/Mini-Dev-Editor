@@ -1,0 +1,22 @@
+{
+  "name": "mini-dev-editor",
+  "version": "1.0.0",
+  "description": "mini editor de código",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BielCoutinho/Mini-Dev-Editor.git"
+  },
+  "author": "Gabriel Santos Coutinho",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/BielCoutinho/Mini-Dev-Editor/issues"
+  },
+  "homepage": "https://github.com/BielCoutinho/Mini-Dev-Editor#readme",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
