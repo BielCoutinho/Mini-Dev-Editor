@@ -1,2 +1,2 @@
-# Mini-Editor-de-C-digo
+# Mini Dev Edidor
 Mini Editor de Código uasndo o Electron
